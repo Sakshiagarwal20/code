@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Login Form</title>
+<link rel="stylesheet" type="text/css" href="global.css">
+</head>
+<body>
+<div class="form-container"> </div>
+<div class="user-imag"></div>
+<ul class="list">
+<li><h2>Sign in</h2></li>
+<li><input type="text" name="User Name" placeholder="mail@example.com"></li>
+<li><input type="password" name="Password" placeholder="password"></li>
+<li><input type="button" name="Sign In" value="Sign In"></li>
+<li>Forgot your password?</li>
+<li>f</li>
+<li>g</li>
+<li><EPAM LOGIN></li>
+</ul>
+</body>
+</html>
